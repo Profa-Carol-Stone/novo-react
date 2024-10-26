@@ -3,7 +3,8 @@
 function Contador() {
   return (
     <>
-    <h1>Meu COntador</h1>
+    <h1>Meu Contador</h1>
+    <p>meu contador</p>
     </>
   );
 }
